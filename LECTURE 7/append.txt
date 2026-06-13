@@ -1,0 +1,2 @@
+this is a new file and it is append
+this is the next line
