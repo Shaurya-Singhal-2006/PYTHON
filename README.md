@@ -1,2 +1,2 @@
 # PYTHON
-All the Python Notes Created By myself 🐍
+📚 My Python notes, programs, and practice code created while learning Python 🐍✨
