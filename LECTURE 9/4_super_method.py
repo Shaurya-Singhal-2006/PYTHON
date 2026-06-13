@@ -13,7 +13,7 @@ class car:
     def stop():
         print("csr stopped")
 
-    
+
 class toyotacar(car):
     def __init__(self,name ,type):
         super().__init__(type)           #we this to call parent class in child class
